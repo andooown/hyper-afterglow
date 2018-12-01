@@ -11,6 +11,10 @@
     "hyperterm",
     "afterglow"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andooown/hyper-afterglow.git"
+  },
   "author": "andooown <andooown.dev@gmail.com>",
   "license": "MIT"
 }
