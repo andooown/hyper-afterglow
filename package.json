@@ -16,5 +16,8 @@
     "url": "https://github.com/andooown/hyper-afterglow.git"
   },
   "author": "andooown <andooown.dev@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "1.15.3"
+  }
 }
